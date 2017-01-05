@@ -1,0 +1,2 @@
+set title "TITLEEEEE" 
+plot 'data.temp' 
